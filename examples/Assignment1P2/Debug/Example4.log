@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\csci 3090\examples\assignment1p2\main.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\csci 3090\examples\assignment1p2\main.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\csci 3090\examples\assignment1p2\main.cpp(123): warning C4101: 'vNormal': unreferenced local variable
+c:\csci 3090\examples\assignment1p2\main.cpp(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p2\main.cpp(243): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\assignment1p2\main.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\csci 3090\examples\assignment1p2\main.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\csci 3090\examples\assignment1p2\main.cpp(280): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p2\main.cpp(292): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p2\main.cpp(295): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p2\main.cpp(298): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p2\main.cpp(301): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p2\main.cpp(304): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p2\main.cpp(309): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p2\main.cpp(361): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Example4.vcxproj -> C:\CSCI 3090\examples\Assignment1P2\Debug\Example4.exe
+  Example4.vcxproj -> C:\CSCI 3090\examples\Assignment1P2\Debug\Example4.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\csci 3090\examples\assignment3\raytracer-visualstudio\image.h(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment3\raytracer-visualstudio\image.h(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RayTracer.vcxproj -> C:\CSCI 3090\examples\Assignment3\raytracer-visualstudio\Debug\RayTracer.exe
+  RayTracer.vcxproj -> Debug\RayTracer.pdb (Full PDB)

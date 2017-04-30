@@ -1,0 +1,68 @@
+﻿  tiny_obj_loader.cc
+c:\csci 3090\examples\assignment1p1\tiny_obj_loader.cc(336): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\csci 3090\examples\assignment1p1\tiny_obj_loader.cc(625): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\csci 3090\examples\assignment1p1\tiny_obj_loader.cc(645): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\csci 3090\examples\assignment1p1\tiny_obj_loader.cc(705): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  Shaders.cpp
+c:\csci 3090\examples\assignment1p1\shaders.cpp(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  readply.cpp
+c:\csci 3090\examples\assignment1p1\readply.cpp(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\assignment1p1\readply.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\assignment1p1\readply.cpp(50): warning C4101: 'type': unreferenced local variable
+c:\csci 3090\examples\assignment1p1\readply.cpp(51): warning C4101: 'mesh': unreferenced local variable
+c:\csci 3090\examples\assignment1p1\readply.cpp(54): warning C4101: 'nmesh': unreferenced local variable
+c:\csci 3090\examples\assignment1p1\readply.cpp(52): warning C4101: 'k': unreferenced local variable
+c:\csci 3090\examples\assignment1p1\readply.cpp(52): warning C4101: 'j': unreferenced local variable
+  plyfile.cpp
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(223): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(265): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(269): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(698): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(722): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(811): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(847): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(900): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(1229): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(1328): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(1385): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(2214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(2628): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(2656): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(2717): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(2722): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\assignment1p1\plyfile.cpp(2789): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  main.cpp
+c:\csci 3090\examples\assignment1p1\main.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p1\main.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\assignment1p1\main.cpp(262): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p1\main.cpp(265): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p1\main.cpp(268): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p1\main.cpp(271): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p1\main.cpp(311): warning C4305: '=': truncation from 'double' to 'float'
+c:\csci 3090\examples\assignment1p1\main.cpp(315): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  Example4.vcxproj -> C:\CSCI 3090\examples\Assignment1P1\Debug\Example4.exe
+  Example4.vcxproj -> C:\CSCI 3090\examples\Assignment1P1\Debug\Example4.pdb (Full PDB)
