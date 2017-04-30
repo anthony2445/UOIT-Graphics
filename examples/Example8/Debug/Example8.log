@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\csci 3090\examples\example8\main.cpp(352): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example8\main.cpp(353): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example8\main.cpp(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example8\main.cpp(396): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Example8.vcxproj -> C:\CSCI 3090\examples\Example8\Debug\Example8.exe
+  Example8.vcxproj -> C:\CSCI 3090\examples\Example8\Debug\Example8.pdb (Full PDB)

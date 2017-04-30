@@ -1,0 +1,23 @@
+﻿  tiny_obj_loader.cc
+c:\csci 3090\examples\example6 - copy\tiny_obj_loader.cc(336): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\csci 3090\examples\example6 - copy\tiny_obj_loader.cc(625): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\csci 3090\examples\example6 - copy\tiny_obj_loader.cc(645): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\csci 3090\examples\example6 - copy\tiny_obj_loader.cc(705): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  Shaders.cpp
+c:\csci 3090\examples\example6 - copy\shaders.cpp(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  main.cpp
+c:\csci 3090\examples\example6 - copy\main.cpp(151): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\csci 3090\examples\example6 - copy\main.cpp(152): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\csci 3090\examples\example6 - copy\main.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example6 - copy\main.cpp(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example6 - copy\main.cpp(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Example6.vcxproj -> C:\CSCI 3090\examples\Example6 - Copy\Debug\Example6.exe
+  Example6.vcxproj -> C:\CSCI 3090\examples\Example6 - Copy\Debug\Example6.pdb (Full PDB)

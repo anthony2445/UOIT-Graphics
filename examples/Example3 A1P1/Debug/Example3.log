@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\csci 3090\examples\example3\main.cpp(194): warning C4101: 'vPosition': unreferenced local variable
+c:\csci 3090\examples\example3\main.cpp(195): warning C4101: 'colourLoc': unreferenced local variable
+c:\csci 3090\examples\example3\main.cpp(231): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example3\main.cpp(248): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example3\main.cpp(251): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example3\main.cpp(254): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example3\main.cpp(257): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example3\main.cpp(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Example3.vcxproj -> C:\CSCI 3090\examples\Example3\Debug\Example3.exe
+  Example3.vcxproj -> C:\CSCI 3090\examples\Example3\Debug\Example3.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  Shaders.cpp
+c:\csci 3090\examples\example2\shaders.cpp(11): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+c:\csci 3090\examples\example2\main.cpp(13): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\csci 3090\examples\lab9\main.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(176): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(200): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(202): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(236): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(238): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(262): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(263): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(264): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\csci 3090\examples\lab9\main.cpp(265): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  Lab9.vcxproj -> C:\CSCI 3090\examples\Lab9\Debug\Lab9.exe
+  Lab9.vcxproj -> C:\CSCI 3090\examples\Lab9\Debug\Lab9.pdb (Full PDB)

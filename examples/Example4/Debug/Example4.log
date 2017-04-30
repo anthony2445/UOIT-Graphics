@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\csci 3090\examples\example4\main.cpp(131): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example4\main.cpp(137): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\csci 3090\examples\example4\main.cpp(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example4\main.cpp(254): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example4\main.cpp(267): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example4\main.cpp(270): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example4\main.cpp(273): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example4\main.cpp(276): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example4\main.cpp(316): warning C4305: '=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example4\main.cpp(320): warning C4305: '=': truncation from 'double' to 'float'
+  Example4.vcxproj -> C:\CSCI 3090\examples\Example4\Debug\Example4.exe
+  Example4.vcxproj -> C:\CSCI 3090\examples\Example4\Debug\Example4.pdb (Full PDB)

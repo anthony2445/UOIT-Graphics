@@ -1,0 +1,37 @@
+﻿  main.cpp
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(27): warning C4273: '_errno': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stddef.h(29): note: see previous definition of '_errno'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(37): warning C4101: 'e': unreferenced local variable
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(195): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(196): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(201): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(202): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(208): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(214): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(205): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(206): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(211): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\100525235\desktop\texture(1)\texture\main.cpp(212): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  texture.vcxproj -> C:\Users\100525235\Desktop\Texture(1)\Texture\Debug\texture.exe
+  texture.vcxproj -> C:\Users\100525235\Desktop\Texture(1)\Texture\Debug\texture.pdb (Full PDB)

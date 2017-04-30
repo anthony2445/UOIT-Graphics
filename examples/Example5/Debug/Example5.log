@@ -1,0 +1,61 @@
+﻿  main.cpp
+c:\csci 3090\examples\example5\main.cpp(82): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(83): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(90): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(92): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(93): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(94): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example5\main.cpp(312): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example5\main.cpp(315): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example5\main.cpp(318): warning C4305: '+=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example5\main.cpp(321): warning C4305: '-=': truncation from 'double' to 'float'
+c:\csci 3090\examples\example5\main.cpp(330): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\csci 3090\examples\example5\main.cpp(331): warning C4305: 'initializing': truncation from 'double' to 'float'
+  readply.c
+c:\csci 3090\examples\example5\readply.c(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\example5\readply.c(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\example5\readply.c(50): warning C4101: 'type': unreferenced local variable
+c:\csci 3090\examples\example5\readply.c(51): warning C4101: 'mesh': unreferenced local variable
+c:\csci 3090\examples\example5\readply.c(54): warning C4101: 'nmesh': unreferenced local variable
+c:\csci 3090\examples\example5\readply.c(52): warning C4101: 'k': unreferenced local variable
+c:\csci 3090\examples\example5\readply.c(52): warning C4101: 'j': unreferenced local variable
+  plyfile.c
+c:\csci 3090\examples\example5\plyfile.c(223): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\csci 3090\examples\example5\plyfile.c(265): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\csci 3090\examples\example5\plyfile.c(269): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\example5\plyfile.c(698): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(722): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(811): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example5\plyfile.c(847): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(900): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\csci 3090\examples\example5\plyfile.c(1229): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(1328): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(1385): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(2214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example5\plyfile.c(2628): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\csci 3090\examples\example5\plyfile.c(2656): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(2717): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(2722): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\csci 3090\examples\example5\plyfile.c(2789): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  Generating Code...
+  Example5.vcxproj -> C:\CSCI 3090\examples\Example5\Debug\Example5.exe
+  Example5.vcxproj -> C:\CSCI 3090\examples\Example5\Debug\Example5.pdb (Full PDB)

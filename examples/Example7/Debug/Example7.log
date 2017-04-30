@@ -1,0 +1,11 @@
+﻿  Shaders.cpp
+c:\csci 3090\examples\example7\shaders.cpp(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  main.cpp
+c:\csci 3090\examples\example7\main.cpp(75): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\csci 3090\examples\example7\main.cpp(75): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\csci 3090\examples\example7\main.cpp(112): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\csci 3090\examples\example7\main.cpp(140): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  Example7.vcxproj -> C:\CSCI 3090\examples\Example7\Debug\Example7.exe
+  Example7.vcxproj -> C:\CSCI 3090\examples\Example7\Debug\Example7.pdb (Full PDB)
